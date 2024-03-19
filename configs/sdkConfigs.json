@@ -47,13 +47,14 @@
         {
             "language": "node",
             "considerInGeneration": true,
-            "version": "1.0.0",
+            "version": "1.0.7",
             "changelog": "### Changed\n- Added support for version 1.1.0-1.0.0 of the DocuSign test API.\n- Updated the SDK release version.\n",
             "deployToInternal": true,
             "deployToExternal": true,
             "createRelease": true,
             "pushToPackageManager": true,
-            "generateSdkDocs": true
+            "generateSdkDocs": true,
+            "latestReleaseTag": "v1.0.0"
         },
         {
             "language": "python",
